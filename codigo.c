@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//exemplo
 int main()
 {
    int AN, AT, PROX, CONT;
